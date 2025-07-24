@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Sound Design
+      tag: SD
+    - name: Dialogue Editing
+      tag: DE
+    - name: Sound Recordist/Boom Op
+      tag: production
+    - name: Podcasts
+        tag: pod
 
 design:
   columns: '1'
