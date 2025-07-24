@@ -1,6 +1,6 @@
 ---
 title: A Soup Most Foul
-summary: Group 3’s episode for round 5 of Hubris: A 24-Hour Podcast Project. I was the sound designer and dialogue editor. There’s nothing funnier to me than a well-timed “thud” sound effect.
+summary: Group 3’s episode for round 5 of Hubris- A 24-Hour Podcast Project. I was the sound designer and dialogue editor. There’s nothing funnier to me than a well-timed “thud” sound effect.
 tags:
   - SD, pod
 date: 2022-08-28
