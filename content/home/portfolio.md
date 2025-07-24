@@ -34,8 +34,8 @@ content:
       tag: DE
     - name: Sound Recordist/Boom Op
       tag: production
-    - name: Podcasts
-        tag: pod
+    -name: Podcasts
+      tag: pod
 
 design:
   columns: '1'
