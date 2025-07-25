@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Georgia
-    date_start: '2016-11-08'
-    date_end: '2020-08-06'
+    date_start: '2016-08-11'
+    date_end: '2020-05-08'
     description: |2-
         * Nanto Bukan Kendo Club
 

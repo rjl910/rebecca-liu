@@ -25,26 +25,29 @@ experience:
   - title: Media Production & Instruction Technician
     company: UNC Chapel Hill
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: unc_logo
+    location: North Carolina
+    date_start: '2021-11-29'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Lecturing students on NLE software (Audition, Premiere Pro)
+        * Providing media resource help to library patrons 
+        * Supervising student desk staff
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Podcast Editor
+    company: NuVoices
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company_logo: mic
+    location: Remote
+    date_start: '2024-11-14'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Editing episodes using Pro Tools
+        * Providing technical support to hosts and guests 
 design:
   columns: '1'
 ---
