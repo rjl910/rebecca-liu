@@ -6,7 +6,7 @@ title: Rebecca Liu
 superuser: true
 
 # Role/position
-role: 'Media Instruction & Production Technician'
+#role: 'Media Instruction & Production Technician'
 
 # Status emoji
 #status:
@@ -66,6 +66,6 @@ social:
 #email: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an audio specialist with experience in podcasts, short films, news production, and professional video recordings. I have assisted organizations like the NPPA and the Radio Talent Institute and have been crew on numerous projects. I have a strong interest in audio and how it can tell stories in new and innovative ways.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
