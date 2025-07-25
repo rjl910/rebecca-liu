@@ -25,7 +25,7 @@ experience:
   - title: Entertainment and Media Studies | Statistics
     company: University of Georgia
     company_url: ''
-    company_logo: org-x
+    company_logo: uga
     location: Georgia
     date_start: '2016-08-11'
     date_end: '2020-05-08'
