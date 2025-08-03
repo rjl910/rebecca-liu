@@ -36,6 +36,8 @@ content:
       tag: production
     - name: Podcasts
       tag: pod
+    - name: Video
+      tag: video
 
 design:
   columns: '1'
